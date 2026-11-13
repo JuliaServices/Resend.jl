@@ -1,0 +1,5 @@
+[deps]
+Resend = "83ecccc3-6778-4b2e-8a81-baffe30450c2"
+
+[sources]
+Resend = {path = "../.."}
